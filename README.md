@@ -4,9 +4,7 @@ A full-stack web application to manage your daily tasks efficiently. Built with 
 
 ## Features
 
-- ✨ **Add, Edit, Delete Tasks:** Manage your to-do items with ease.
-- 📋 **Task Status Tracking:** Mark tasks as complete or pending.
-- 🔍 **Search & Filter:** Quickly find tasks by keywords.
+- ✨ **Add, Delete Tasks:** Manage your to-do items with ease.
 - 🕒 **Persistent Storage:** All tasks are securely stored in a database.
 - ⚡ **Responsive UI:** Works seamlessly on desktop and mobile devices.
 - 🔗 **RESTful API:** Clean separation between frontend and backend for scalability.
@@ -15,7 +13,7 @@ A full-stack web application to manage your daily tasks efficiently. Built with 
 
 - **Frontend:** React, Vite, CSS
 - **Backend:** Spring Boot, Java, Maven
-- **Database:** (Specify your DB, e.g., H2, MySQL)
+- **Database:** (PostgreSQL)
 - **API:** RESTful endpoints
 
 ## Getting Started
