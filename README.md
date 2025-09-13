@@ -1,6 +1,6 @@
-# ToDo List Tracker
+# Task List Tracker
 
-A full-stack web application to manage your daily tasks efficiently. Built with a modern React frontend and a robust Spring Boot backend, ToDo List Tracker helps you stay organized, productive, and motivated.
+A full-stack web application to manage your daily tasks efficiently. Built with a modern React frontend and a robust Spring Boot backend, Task List Tracker helps you stay organized, productive, and motivated.
 
 ## Features
 
