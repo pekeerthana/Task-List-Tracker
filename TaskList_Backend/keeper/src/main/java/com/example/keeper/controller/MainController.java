@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 @RestController
 @RequestMapping("/api/tasks")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://task-list-tracker-bykeerthana.netlify.app/")
 public class MainController{
 
     private TaskService taskService;
